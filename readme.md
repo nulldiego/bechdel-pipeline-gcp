@@ -1,3 +1,5 @@
-## Example of Google Dataflow pipeline
+## Data Science en Google Cloud Platform
 
-Example using Google Dataflow and BigQuery as a sink.
+Ejemplo de preprocesado, exploración y visualización de datos utilizando Cloud Dataflow, BigQuery y Data Studio.
+
+Más información en [Preprocesado-Exploracion-Visualizacion-GCP.pdf](Preprocesado-Exploracion-Visualizacion-GCP.pdf)
